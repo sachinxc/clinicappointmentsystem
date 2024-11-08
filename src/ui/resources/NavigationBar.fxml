@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.HBox?>
+
+<HBox alignment="CENTER" spacing="10" styleClass="hbox" stylesheets="@navigationBar.css" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1">
+    <Button fx:id="homeNavButton" text="Home" />
+    <Button fx:id="bookNavButton" text="Book Appointment" />
+    <Button fx:id="viewNavButton" text="View Appointments" />
+    <Button fx:id="manageNavButton" text="Manage Appointments" />
+    <Button fx:id="paymentNavButton" text="Payment Manager" />
+</HBox>

@@ -1,0 +1,29 @@
+/* Search Button color */
+#searchButton {
+    -fx-background-color: #1abc9c;
+}
+
+/* Search Button Hover color */
+#searchButton:hover {
+    -fx-background-color: #2ecc71;
+}
+
+/* Search Button Pressed color */
+#searchButton:pressed {
+    -fx-background-color: #149174;
+}
+
+/* View Appointments Button color */
+#viewAppointmentsButton {
+    -fx-background-color: #1abc9c;
+}
+
+/* View Appointments Button Hover color */
+#viewAppointmentsButton:hover {
+    -fx-background-color: #2ecc71;
+}
+
+/* View Appointments Button Pressed color */
+#viewAppointmentsButton:pressed {
+    -fx-background-color: #149174;
+}

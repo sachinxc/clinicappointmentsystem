@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" prefHeight="484.0" prefWidth="687.0" spacing="20" style="-fx-background-color: #E0FBE2;"
+      xmlns="http://javafx.com/javafx/23">
+    <Label alignment="TOP_LEFT" contentDisplay="TOP" text="Aurora Skin Clinic">
+      <VBox.margin>
+         <Insets bottom="10.0" top="10.0" />
+      </VBox.margin>
+      <font>
+         <Font name="Imprint MT Shadow" size="52.0" />
+      </font></Label>
+   <Label alignment="TOP_LEFT" contentDisplay="TOP" layoutX="90.0" layoutY="30.0" text="Appointment Management System" textFill="#666666">
+      <font>
+         <Font name="Arial Bold" size="24.0" />
+      </font></Label>
+</VBox>

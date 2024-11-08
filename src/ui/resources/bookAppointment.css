@@ -1,0 +1,48 @@
+/* Book Button color */
+#bookButton {
+    -fx-background-color: #1abc9c;
+}
+
+/* Book Button Hover color */
+#bookButton:hover {
+    -fx-background-color: #2ecc71;
+}
+
+/* Book Button Pressed color */
+#bookButton:pressed {
+    -fx-background-color: #149174;
+}
+
+/* Clinic Day cell color */
+.clinic-day {
+    -fx-background-color: #90EE90;
+}
+
+/* Clinic Day cell color on hover */
+.clinic-day:hover {
+    -fx-background-color: #76c376;
+}
+
+/* Clinic Day cell color when selected */
+.clinic-day:focused {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+/*Today date cell hover color*/
+.date-picker .today:hover {
+    -fx-background-color: #76c376;
+}
+
+/*Today date cell is highlighted in blue*/
+.date-picker .today {
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+
+
+
+

@@ -1,0 +1,25 @@
+/* Navigation Button Background Color and Padding */
+.hbox {
+    -fx-background-color: #E0FBE2;
+    -fx-padding: 25 10 10 10;
+}
+/* Navigation Button General Style */
+.button {
+    -fx-background-color: #179BAE;
+    -fx-text-fill: white;
+    -fx-padding: 10 20;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+}
+
+/* Navigation Button Hover color */
+.button:hover {
+    -fx-background-color: #3498DB;
+}
+
+/* Navigation Button Pressed color */
+.button:pressed {
+    -fx-background-color: #1ABC9C;
+}

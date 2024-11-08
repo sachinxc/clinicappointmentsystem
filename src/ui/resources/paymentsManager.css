@@ -1,0 +1,29 @@
+/* Generate Invoice Button color */
+#generateInvoiceButton {
+    -fx-background-color: #1abc9c;
+}
+
+/* Generate Invoice Button Hover color */
+#generateInvoiceButton:hover {
+    -fx-background-color: #2ecc71;
+}
+
+/* Generate Invoice Button Pressed color */
+#generateInvoiceButton:pressed {
+    -fx-background-color: #149174;
+}
+
+/* Download PDF Button color */
+#downloadPdfButton {
+    -fx-background-color: #1abc9c;
+}
+
+/* Download PDF Button Hover color */
+#downloadPdfButton:hover {
+    -fx-background-color: #2ecc71;
+}
+
+/* Download PDF Button Pressed color */
+#downloadPdfButton:pressed {
+    -fx-background-color: #149174;
+}
